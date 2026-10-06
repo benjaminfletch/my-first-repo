@@ -1,0 +1,3 @@
+walking
+reading
+gaming
